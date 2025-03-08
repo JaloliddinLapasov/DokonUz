@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\novaya\\DokonUz\\wwwroot\\images\\c12571f9-9bc6-4d44-bf35-cb5f60d40ec3.png",
+      "PackagePath": "staticwebassets\\images\\c12571f9-9bc6-4d44-bf35-cb5f60d40ec3.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DokonUz.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DokonUz.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.DokonUz.props",
+      "PackagePath": "build\\DokonUz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.DokonUz.props",
+      "PackagePath": "buildMultiTargeting\\DokonUz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.DokonUz.props",
+      "PackagePath": "buildTransitive\\DokonUz.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

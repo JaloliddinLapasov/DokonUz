@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "iyt8OeEmZvA+KLWhXXMovo4cBmsO0OYugseeEak5eys=",
+  "Source": "DokonUz",
+  "BasePath": "_content/DokonUz",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DokonUz\\wwwroot",
+      "Source": "DokonUz",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\novaya\\DokonUz\\wwwroot\\",
+      "BasePath": "_content/DokonUz",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\novaya\\DokonUz\\wwwroot\\images\\c12571f9-9bc6-4d44-bf35-cb5f60d40ec3.png",
+      "SourceId": "DokonUz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\novaya\\DokonUz\\wwwroot\\",
+      "BasePath": "_content/DokonUz",
+      "RelativePath": "images/c12571f9-9bc6-4d44-bf35-cb5f60d40ec3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pv96tmk4zk",
+      "Integrity": "hQxPdNAYsGIoV2ohfEo0UkZo1Jglegr3ggkzrI8LG58=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c12571f9-9bc6-4d44-bf35-cb5f60d40ec3.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/c12571f9-9bc6-4d44-bf35-cb5f60d40ec3.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\novaya\\DokonUz\\wwwroot\\images\\c12571f9-9bc6-4d44-bf35-cb5f60d40ec3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "987604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hQxPdNAYsGIoV2ohfEo0UkZo1Jglegr3ggkzrI8LG58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 20:02:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hQxPdNAYsGIoV2ohfEo0UkZo1Jglegr3ggkzrI8LG58="
+        }
+      ]
+    },
+    {
+      "Route": "images/c12571f9-9bc6-4d44-bf35-cb5f60d40ec3.pv96tmk4zk.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\novaya\\DokonUz\\wwwroot\\images\\c12571f9-9bc6-4d44-bf35-cb5f60d40ec3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "987604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hQxPdNAYsGIoV2ohfEo0UkZo1Jglegr3ggkzrI8LG58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 20:02:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pv96tmk4zk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c12571f9-9bc6-4d44-bf35-cb5f60d40ec3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hQxPdNAYsGIoV2ohfEo0UkZo1Jglegr3ggkzrI8LG58="
+        }
+      ]
+    }
+  ]
+}
